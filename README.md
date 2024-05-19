@@ -54,8 +54,10 @@ php artisan migrate
 ```
 # Here some screenshots
 
-![Screenshot of the application](public/screenshots/image1.png)
-![Screenshot of the application](public/screenshots/image2.png)
-![Screenshot of the application](public/screenshots/image3.png)
-![Screenshot of the application](public/screenshots/image4.png)
-![Screenshot of the application](public/screenshots/image5.png)
+
+<img src="public/screenshots/image1.png" alt="Screenshot of the application" height="400" width="700">
+<img src="public/screenshots/image2.png" alt="Screenshot of the application" height="400" width="700">
+<img src="public/screenshots/image3.png" alt="Screenshot of the application" height="400" width="700">
+<img src="public/screenshots/image4.png" alt="Screenshot of the application" height="400" width="700">
+<img src="public/screenshots/image5.png" alt="Screenshot of the application" height="400" width="700">
+
