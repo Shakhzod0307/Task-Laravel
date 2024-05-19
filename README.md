@@ -17,7 +17,7 @@ Ordinary email and password to check
 - email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;user123@gmail.com
 - password &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;user1234
 
-API for categories and products
+API for categories and products ( laravel/sanctum )
 
 - Requests:
 1) Get all categories: GET /api/categories
@@ -50,3 +50,12 @@ php artisan key:generate
 
 # Run the migrations
 php artisan migrate
+
+```
+# Here some screenshots
+
+![Screenshot of the application](public/screenshots/image1.png)
+![Screenshot of the application](public/screenshots/image2.png)
+![Screenshot of the application](public/screenshots/image3.png)
+![Screenshot of the application](public/screenshots/image4.png)
+![Screenshot of the application](public/screenshots/image5.png)
