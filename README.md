@@ -14,8 +14,8 @@ Email and password to access the admin panel
 - password &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;admin123
 
 Ordinary email and password to check 
-- email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;admin123@gmail.com
-- password &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;admin123
+- email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;user123@gmail.com
+- password &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;user1234
 
 API for categories and products
 
