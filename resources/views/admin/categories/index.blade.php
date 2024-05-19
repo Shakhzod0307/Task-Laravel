@@ -1,7 +1,7 @@
 @extends('layout')
 @section('content')
 
-<section class="h-screen  bg-gradient-to-br from-pink-50 to-indigo-100 p-8">
+<section class="max-h-full  bg-gradient-to-br from-pink-50 to-indigo-100 p-8">
     @if(session('success'))
         <div class="mb-4 text-green-600 text-center font-semibold">
             {{ session('success') }}
