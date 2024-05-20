@@ -49,7 +49,7 @@ cp .env.example .env
 php artisan key:generate
 
 # Run the migrations
-php artisan migrate
+php artisan migrate --seed
 
 ```
 # Here some screenshots
