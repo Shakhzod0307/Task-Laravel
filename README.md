@@ -52,7 +52,7 @@ php artisan key:generate
 php artisan migrate --seed
 
 ```
-# Here some screenshots
+# Some screenshots
 
 
 <img src="public/screenshots/image1.png" alt="Screenshot of the application" height="400" width="700">
