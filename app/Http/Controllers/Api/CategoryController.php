@@ -26,12 +26,14 @@ class CategoryController extends Controller
 
     public function store(StoreCategoryRequest $request)
     {
+//        dd($request->all());
         $data = $request->validated();
         $imagePath = $request->file('picture')->store('public');
         $data['picture'] = $imagePath;
         $category = Category::create($data);
         return response()->json([
             'message' => 'Category created successfully!',
+            'new category'=>$category
         ]);
     }
 

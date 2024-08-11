@@ -3,19 +3,19 @@
 ## Small Description
 A small admin panel + API using the Laravel framework
 
-- database - MySQL
+- database - [MySQL]()
 - Tables:
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pages (title, short description, full description)
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Categories (title, picture, short description, full description)
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Products (name,category id, picture, short description, full description)
 
 Email and password to access the admin panel
-- email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;admin123@gmail.com
-- password &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;admin123
+- email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;[admin123@gmail.com]()
+- password &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[admin123]()
 
 Ordinary email and password to check 
-- email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;user123@gmail.com
-- password &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;user1234
+- email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;[user123@gmail.com]()
+- password &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[user1234]()
 
 API for categories and products ( laravel/sanctum )
 
