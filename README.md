@@ -49,10 +49,10 @@ cp .env.example .env
 php artisan key:generate
 
 # Run the migrations
-php artisan migrate
+php artisan migrate --seed
 
 ```
-# Here some screenshots
+# Some screenshots
 
 
 <img src="public/screenshots/image1.png" alt="Screenshot of the application" height="400" width="700">
